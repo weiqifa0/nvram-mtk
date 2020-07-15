@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="bn1">button1</string>
+	<string name="bn2">button2</string>	
+	<string name="app_name">JavaNvRAM</string>
+	<string name="mdpi">MMDDPPII</string>
+	<string name="def">DEF</string>
+</resources>
